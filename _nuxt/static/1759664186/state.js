@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1759664186",layout:"default",error:a,serverRendered:true,routePath:b,config:{baseURL:"https:\u002F\u002Fukraineablaze.github.io",apiBase:"http:\u002F\u002F127.0.0.1:1337",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"b25b294c"}}}}(null,"\u002F"));
